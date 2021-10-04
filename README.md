@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello! I'm NeutronX 👋
 
-<!--
-**NeutronX-dev/NeutronX-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a developer looking forward to learn More!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning [Go](https://golang.org/)!
+- 🥅 Goals: Learn [Go](https://golang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Node.js" width="26px" src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" />][golang]
+
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NeutronX-dev&show_icons=true&hide_border=true" />
+
+</details>
+
+[vscode]: https://code.visualstudio.com/
+[golang]: https://golang.org/
+[nodejs]: https://nodejs.org/es/
