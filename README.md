@@ -2,8 +2,8 @@
 
 ## I'm a developer looking forward to learn More!
 
-- 🌱 I’m currently learning [Go](https://golang.org/)!
-- 🥅 Goals: Make a fully functioning site with [Go](https://golang.org/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)!
+- 🥅 Goals: Make a proper Rust program with more than 10 lines that don't crash.
 
 
 ### Languages and Tools:
